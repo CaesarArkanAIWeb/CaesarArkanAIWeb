@@ -46,15 +46,6 @@ Saya seorang pengembang web yang fokus mengintegrasikan kapabilitas Artificial I
 
 ---
 
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Hubungi Saya
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com)
 - 🌐 Portfolio: [portfolio-anda.com](https://caesarpik15.github.io/porto15)
