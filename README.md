@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Lengkap Anda] 👋
+# Hi there, I'm Caesar Arkan Athariz 👋
 
 ### 🚀 Junior AI Web Engineer | Full-Stack & Generative AI Enthusiast
 
@@ -40,9 +40,9 @@ Saya seorang pengembang web yang fokus mengintegrasikan kapabilitas Artificial I
 
 | Proyek | Deskripsi | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[Nama Proyek 1]** | Aplikasi web RAG yang memungkinkan tanya jawab dokumen multi-format secara streaming dengan latensi rendah. | Next.js, LangChain, Supabase pgvector | [Repo](link) / [Live Demo](link) |
-| **[Nama Proyek 2]** | SaaS web app yang memanfaatkan Function Calling / AI Agent untuk otomatisasi tugas operasional. | React, FastAPI, OpenAI API, Tailwind | [Repo](link) / [Live Demo](link) |
-| **[Nama Proyek 3]** | Dashboard visualisasi data interaktif dengan fitur insight generation berbasis LLM. | TypeScript, Node.js, PostgreSQL | [Repo](link) / [Live Demo](link) |
+| **Kalkulator** | Aplikasi web RAG yang memungkinkan tanya jawab dokumen multi-format secara streaming dengan latensi rendah. | Next.js, LangChain, Supabase pgvector | [Repo](link) / [Live Demo](link) |
+| **Tampilan Login** | SaaS web app yang memanfaatkan Function Calling / AI Agent untuk otomatisasi tugas operasional. | React, FastAPI, OpenAI API, Tailwind | [Repo](link) / [Live Demo](link) |
+| **System Absensi Digital** | Dashboard visualisasi data interaktif dengan fitur insight generation berbasis LLM. | TypeScript, Node.js, PostgreSQL | [Repo](link) / [Live Demo](link) |
 
 ---
 
