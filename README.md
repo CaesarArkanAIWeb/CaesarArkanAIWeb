@@ -47,6 +47,6 @@ Saya seorang pengembang web yang fokus mengintegrasikan kapabilitas Artificial I
 ---
 
 ### 📬 Hubungi Saya
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com)
-- 🌐 Portfolio: [portfolio-anda.com](https://caesarpik15.github.io/porto15)
-- ✉️ Email: [email.anda@gmail.com](mailto:caesararkanstudio@gmail.com)
+- 💼 LinkedIn: (https://linkedin.com)
+- 🌐 Portfolio: (https://caesarpik15.github.io/porto15)
+- ✉️ Email: (mailto:caesararkanstudio@gmail.com)
